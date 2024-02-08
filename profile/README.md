@@ -2,19 +2,15 @@
 
 Estamos emocionados de anunciar que estamos reviviendo el proyecto Ututo y trabajando arduamente para lanzar Ututo 11, la próxima versión de nuestra distribución.
 
-## 🌐 Sitio web
+### 🌐 Sitio web
 
 [ututo.org](https://ututo.org)
 
-## 🐦 Twitter
+### 🐦 Twitter
 
 [@ututolinux](https://twitter.com/ututolinux)
 
-## 💼 LinkedIn
-
-[ututolinux](https://www.linkedin.com/company/ututolinux)
-
-## 🔥 Únite a nuestra comunidad en Discord
+### 🔥 Únite a nuestra comunidad en Discord
 
 ¡Únite a nuestra comunidad de Discord para estar al tanto de las últimas noticias, discusiones y colaboraciones sobre Ututo!
 
