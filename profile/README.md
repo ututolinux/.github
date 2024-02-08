@@ -10,6 +10,10 @@ Estamos emocionados de anunciar que estamos reviviendo el proyecto Ututo y traba
 
 [@ututolinux](https://twitter.com/ututolinux)
 
+### 💼 LinkedIn
+
+[ututolinux](https://www.linkedin.com/company/ututo)
+
 ### 🔥 Únite a nuestra comunidad en Discord
 
 ¡Únite a nuestra comunidad de Discord para estar al tanto de las últimas noticias, discusiones y colaboraciones sobre Ututo!
