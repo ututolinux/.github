@@ -4,7 +4,7 @@ Estamos emocionados de anunciar que estamos reviviendo el proyecto Ututo y traba
 
 ### 🌐 Sitio web
 
-[ututo.org](https://ututo.org)
+[ututo.ar](https://ututo.ar)
 
 ### 🐦 Twitter
 
