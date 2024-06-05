@@ -6,6 +6,10 @@ Estamos emocionados de anunciar que estamos reviviendo el proyecto Ututo y traba
 
 [ututo.ar](https://ututo.ar)
 
+### 🌳 Link tree
+
+[@ututolinux](https://linktr.ee/ututolinux)
+
 ### 🐦 Twitter
 
 [@ututolinux](https://twitter.com/ututolinux)
